@@ -1,4 +1,4 @@
-# Shanthini U — Mathematics & ML Research
+# Shanthini U - Mathematics & ML Research
 
 M.Sc. Mathematics | Deriving transformer architecture 
 from first principles
